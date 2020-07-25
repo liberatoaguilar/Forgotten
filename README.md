@@ -17,3 +17,14 @@ Press e to access the menu screen where you are able to save game, load game, cr
 ### Extra info
 
 This game was created using python and pygame, tiles designed or edited by me
+
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/1.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/2.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/3.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/4.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/5.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/6.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/7.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/8.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/9.png)
+![image](https://raw.githubusercontent.com/liberatoaguilar/Forgotten/master/Images/10.png)
