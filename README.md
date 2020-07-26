@@ -1,5 +1,7 @@
 # Forgotten
 
+- Created February 2017
+
 Forgotten is a game based on The Legend of Zelda. You are the adventurer who wants to find out what happened in a forgotten kingdom
 
 ## Controls
